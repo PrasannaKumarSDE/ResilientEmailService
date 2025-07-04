@@ -22,3 +22,7 @@ git clone https://github.com/yourusername/resilient-email-service.git
 cd resilient-email-service
 mvn clean install
 mvn spring-boot:run
+
+Prasanna Kumar Kanakala
+📧 Email: kanakalaprasannakumar@gmail.com
+🔗 LinkedIn: https://tinyurl.com/52bv4c5v
