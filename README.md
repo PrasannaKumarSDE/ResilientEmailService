@@ -16,6 +16,19 @@ Setup
 Prerequisites
 -->Java 17+, Maven
 
+API Endpoints
+1. Send Email
+URL: POST http://localhost:8082/email/send
+
+Request Body (JSON):
+{
+  "messageId": "123",
+  "recipient": "recipient@example.com",
+  "subject": "Hello",
+  "body": "This is a test email"
+}
+
+
 Run Locally
 ```bash
 git clone https://github.com/yourusername/resilient-email-service.git
